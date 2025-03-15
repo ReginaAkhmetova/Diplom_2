@@ -1,0 +1,2 @@
+old (['welchheather369893o@example.net', '%O^$2Wf_', 'Adam Young720743e'], {'success': True, 'user': {'email': 'welchheather369893o@example.net', 'name': 'Adam Young720743e'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YjlkZDA0OWVkMjgwMDAxYjU4MTVjNCIsImlhdCI6MTc0MDIzMzk4OCwiZXhwIjoxNzQwMjM1MTg4fQ.sqcl9QkrE1cZ8vYGmz-3ogUi-ljB7ALL0aQQKGlaAyc', 'refreshToken': 'afb37060482cec9450d3caf2dd0698ff130b73950422da8f331bf71ae8639e79c0ebc4ba713cda8d'})
+new {'success': True, 'user': {'email': 'welchheather369893o@example.net', 'name': 'Adam Young720743e'}}

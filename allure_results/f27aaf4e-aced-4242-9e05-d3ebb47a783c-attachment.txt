@@ -1,0 +1,2 @@
+old (['nsanchez961296d@example.net', 'ZX(1NCuk', 'Ashley Rowland383612i'], {'success': True, 'user': {'email': 'nsanchez961296d@example.net', 'name': 'Ashley Rowland383612i'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YjlkZDA1OWVkMjgwMDAxYjU4MTVjNiIsImlhdCI6MTc0MDIzMzk4OSwiZXhwIjoxNzQwMjM1MTg5fQ.0U7KUrOUJcp4Vx0iMhK10gkqvQNcuLGEvbcOcxn07Yw', 'refreshToken': 'f266f79f218c45dc7a63affd1c0349d5fc4082564a691bb73c7ca42eeb674b2aaaeda1af9abbbfcd'})
+new {'success': True, 'user': {'email': 'nsanchez961296d@example.net', 'name': 'John Patrick524567v'}}

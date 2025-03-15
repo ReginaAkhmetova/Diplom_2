@@ -1,0 +1,2 @@
+old (['johnshaffer757003k@example.net', '&*e4DTm+', 'Steven Turner13458e'], {'success': True, 'user': {'email': 'johnshaffer757003k@example.net', 'name': 'Steven Turner13458e'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YjlkZDAzOWVkMjgwMDAxYjU4MTVjMiIsImlhdCI6MTc0MDIzMzk4NywiZXhwIjoxNzQwMjM1MTg3fQ.8KgvscZnp_zKmrGdf4VBcNDb4sMQlenKAV9DTED2nKQ', 'refreshToken': '74a87612e8259c832aee943add798d269af046c79c433ff17ec5c7acb015b34b52cf3cded4f93a0c'})
+new {'success': True, 'user': {'email': 'njohnson405995t@example.org', 'name': 'Steven Turner13458e'}}
